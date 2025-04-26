@@ -30,7 +30,7 @@
 
 - ![University Badge](https://img.shields.io/badge/Benha_University-0055A4?style=flat&logo=university&logoColor=white)
 - ![GPA Badge](https://img.shields.io/badge/GPA-3.6/4.0-brightgreen)
-- ![Duration Badge](https://img.shields.io/badge/Duration-October%202021%20–%20July%202025-yellow)
+- ![Duration Badge](https://img.shields.io/badge/Duration-October%202022%20–%20July%202026-yellow)
 
 <br>
 
